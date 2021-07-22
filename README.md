@@ -1,4 +1,4 @@
-# Ejemplo de creditación de Trámites Digitales
+# Ejemplo de acreditación de Trámites Digitales
 
 ## Inicio
 
