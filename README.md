@@ -2,7 +2,7 @@
 
 ## Inicio
 
-Clona el ejemplo e instala el pligun de GA debug en tu navegador
+Clona el ejemplo e instala el plugin de GA debug en tu navegador
 de preferencia Google Chrome, para validar el envio del evento.
 
 Usted debería ver por la consola del navegador la siguiente evidencia de envío de evento:
